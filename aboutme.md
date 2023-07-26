@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 뭐 수정한 것도 없는데 시간이 너무 빨리간다.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+진짜 이런거 만든 사람들은 대단하다:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 건물이나 자동차같은거 봐도 어떻게 저런걸 만들었을까했는데 개발자들도 진짜 대단하네
+- 나무위키에서 리눅스 개발자 대충 봤는데 어렸을 때 컴퓨터 뚝딱뚝딱 손대다가 그런거 개발하는 것도 진짜 대단하다
+- 하긴 매일 하던 게임들도 다 이런식으로 해서 만든거 아닐까
 
-What else do you need?
+
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+그래도 뭔가 생산적인 시간보내는거 같아서 재밌다
