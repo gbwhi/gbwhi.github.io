@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About me이건가?
 subtitle: 뭐 수정한 것도 없는데 시간이 너무 빨리간다.
 ---
 
